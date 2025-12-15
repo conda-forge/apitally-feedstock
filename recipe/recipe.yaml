@@ -3,7 +3,7 @@ schema_version: 1
 
 context:
   name: apitally
-  version: "0.22.2"
+  version: "0.22.3"
 
 package:
   name: ${{ name|lower }}
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/apitally-${{ version }}.tar.gz
-  sha256: 5eb6cdc9a799513d31c4d7881a689e6b726f477c67e2fbc4f0372da701b40c78
+  sha256: 80891405cd1432ace418e2c7dd4e8a12e875ea4585e67e46a446301a3c750892
 
 build:
   number: 0
