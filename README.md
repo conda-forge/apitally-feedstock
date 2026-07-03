@@ -11,7 +11,9 @@ Summary: Simple API monitoring & analytics for REST APIs built with FastAPI, Fla
 
 Development: https://github.com/apitally/apitally-py
 
-Documentation: https://docs.apitally.io/introduction
+Documentation: https://docs.apitally.io/
+
+Simple API monitoring & analytics for REST APIs built with FastAPI, Flask, Django, Starlette, Litestar and BlackSheep.
 
 Current build status
 ====================
